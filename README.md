@@ -1,5 +1,5 @@
 # 📂 SDIR (Shai Direct Interface) 기술 매뉴얼
-Skript-Base File Manager and File Editor SDIR v0.2
+Skript-Base File Manager and File Editor SDIR v0.9
 Copyright 2026. Star^N Studio All rights reserved.
 
 SDIR은 마인크래프트 서버 내에서 파일과 디렉토리(폴더)를 직접 제어하고, 코드를 실시간으로 편집할 수 있는 최고 관리자 전용 CLI(명령줄 인터페이스) 시스템입니다.
